@@ -10,9 +10,9 @@ The chatbot is based on a Node.js server. The server is responsible for the proc
 
 ## Functionnalities, and how to test them:
 -	General section: 
-	- Greetings (example: Hi | Hello | ... )
-	- Introduction (Introduce me to Kevin | Who is Kevin ? | ... )
-	- Contact Info (How can I contact him ? | What is his phone number ? | What is his email adress ? | ... )
+	- Greetings ( Hi | Hello | ... )
+	- Introduction ( Introduce me to Kevin | Who is Kevin ? | ... )
+	- Contact Info ( How can I contact him ? | What is his phone number ? | What is his email adress ? | ... )
 	- Languages spoken ( What languages can he speak ? | ... )
 	- Goodbye ( Bye ! | Thnak you | ... )
  
