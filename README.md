@@ -12,7 +12,7 @@ The chatbot is based on a Node.js server. The server is responsible for the proc
 -	General section: 
 	- Greetings ( Hi | Hello | ... )
 	- Introduction ( Introduce me to Kevin | Who is Kevin ? | ... )
-	- Contact Info ( How can I contact him ? | What is his phone number ? | What is his email adress ? | ... )
+	- Contact Info ( How can I contact him ? | What is his phone number ? | What is his email address ? | ... )
 	- Languages spoken ( What languages can he speak ? | ... )
 	- Goodbye ( Bye ! | Thnak you | ... )
  
