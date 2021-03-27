@@ -24,4 +24,6 @@ The chatbot is based on a Node.js server. The server is responsible for the proc
 	- Education ( Is Kevin studying ? | Does he have a degree ? | ... )
 	- Professional experiences ( What are his professional experiences ? | Is he working ? | ... )
 	- Programming languages ( Does Kevin know C# ? | What programming languages does Kevin knows ? | ... )
-	- Projects ( What are his latest projects | ... ) 
+	- Projects ( What are his latest projects | ... )
+	- Skills ( What are his skills ? | … )![Uploading image.png…]()
+
